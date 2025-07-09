@@ -1,21 +1,21 @@
-# 🎓 Predicting Secondary School Student Performance Using Data Mining Methods
+#  Predicting Secondary School Student Performance Using Data Mining Methods
 
 This project focuses on predicting academic performance of secondary school students based on real-world datasets collected from two public schools in Portugal. The data includes not only grades but also demographic, social, and family-related factors that may impact student success.
 
-## 📌 Project Objective
+##  Project Objective
 
 The main goal of this study is to analyze the factors affecting student performance and to build machine learning models that can accurately predict final grades. By identifying key variables and evaluating different classification algorithms, this project aims to support early interventions and improve educational outcomes.
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
-- 📍 Origin: Two Portuguese secondary schools
-- 📈 Samples: 649 (Portuguese) + 395 (Math) students
-- 🧠 Features: 33 attributes including demographics, family background, study habits, and lifestyle
-- 🎯 Targets: G1, G2, G3 (Grades for 1st period, 2nd period, and final exam)
+-  Origin: Two Portuguese secondary schools
+-  Samples: 649 (Portuguese) + 395 (Math) students
+-  Features: 33 attributes including demographics, family background, study habits, and lifestyle
+-  Targets: G1, G2, G3 (Grades for 1st period, 2nd period, and final exam)
 
 No missing values exist in the dataset. Both numerical and categorical variables are included, with appropriate preprocessing applied (e.g., One-Hot Encoding, MinMax Scaling).
 
-## 🧪 Methodology
+##  Methodology
 
 1. **Data Preprocessing**
    - Handling categorical variables
@@ -57,7 +57,7 @@ No missing values exist in the dataset. Both numerical and categorical variables
   - Weekly study time
 - Feature reduction helped achieve similar or better results with fewer variables.
 
-## 📚 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas & NumPy
@@ -65,11 +65,11 @@ No missing values exist in the dataset. Both numerical and categorical variables
 - Matplotlib & Seaborn
 - Jupyter Notebook
 
-## 🧠 Future Suggestions
+##  Future Suggestions
 
 - Incorporate psychological and emotional variables for richer insights.
 - Apply time-series analysis to monitor student trends.
 - Consider including teacher characteristics and course difficulty.
 
-## 📂 Project Structure
+##  Project Structure
 
