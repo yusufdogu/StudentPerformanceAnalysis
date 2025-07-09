@@ -72,4 +72,13 @@ No missing values exist in the dataset. Both numerical and categorical variables
 - Consider including teacher characteristics and course difficulty.
 
 ##  Project Structure
-
+├── data/
+│ └── student-mat.csv
+│ └── student-por.csv
+├── notebooks/
+│ └── data_preprocessing.ipynb
+│ └── modeling_classification.ipynb
+├── results/
+│ └── model_scores.csv
+├── README.md
+└── requirements.txt
